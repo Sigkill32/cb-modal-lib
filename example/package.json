@@ -1,7 +1,7 @@
 {
   "name": "cb-modal-lib-example",
   "homepage": "https://Sigkill32.github.io/cb-modal-lib",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "private": true,
   "dependencies": {
@@ -9,7 +9,7 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "^1.1.4",
-    "cb-modal-lib": "file:.."
+    "cb-react-modal": "file:.."
   },
   "scripts": {
     "start": "react-scripts start",
